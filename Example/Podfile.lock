@@ -1,0 +1,27 @@
+PODS:
+  - ButtonSiteTool (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - ButtonSiteTool (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ButtonSiteTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ButtonSiteTool: 44d3a1c5cc4d746df0af877a3d8d3c28576ce04a
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 3ca62780d87e98333b1b6eb35a1d590b43bc5caf
+
+COCOAPODS: 1.7.5

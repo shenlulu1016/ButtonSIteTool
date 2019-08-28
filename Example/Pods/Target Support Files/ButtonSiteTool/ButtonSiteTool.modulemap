@@ -1,0 +1,6 @@
+framework module ButtonSiteTool {
+  umbrella header "ButtonSiteTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

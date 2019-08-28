@@ -1,0 +1,6 @@
+framework module Pods_ButtonSiteTool_Example {
+  umbrella header "Pods-ButtonSiteTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
